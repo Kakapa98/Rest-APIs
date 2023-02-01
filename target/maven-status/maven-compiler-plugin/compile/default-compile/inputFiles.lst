@@ -1,0 +1,11 @@
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/ApIsProjectApplication.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/services/CustomerServices.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/services/TransactionServices.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/controllers/BankCustomer.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/services/AccountServices.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/models/Transaction.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/config/SwaggerConfig.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/controllers/BankAccount.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/controllers/BankTransactions.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/models/Account.java
+/home/kahuna/Desktop/Solo/Rest-APIs/src/main/java/com/bank/kahuna/api/APIs_project/models/Customer.java
